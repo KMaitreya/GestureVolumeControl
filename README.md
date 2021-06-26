@@ -19,3 +19,5 @@ We will be using landmarks numbered 4 and 8.
 After executing the program a camera window will open up, you will be able to see your index fingertip adn thumb tip being tracked in this camera window. When the distance increases between those the fingertips the volume will increase and when the distance decreases the volume will decrease. This program also shows the frame rate in the top left corner of the camera window once the program is executed.
 
 To increase the sensitivity of increase/decrease in volume bring the palm closer to the camera and to decrease the sensitivity take the plam away from the camera.
+
+Libraries used-> cv2(opencv), math, numpy, time, mediapipe, ctypes, comtypes, pycaw.
