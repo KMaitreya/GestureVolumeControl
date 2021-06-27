@@ -14,7 +14,7 @@ The palm is tracked using 21 reference points. These reference points are predef
 
 ![image](https://user-images.githubusercontent.com/47482433/121740885-5bd25a80-cb1b-11eb-8501-9270fb396746.png)
 
-We will be using landmarks numbered 4 and 8.
+We will be using landmarks numbered 4(thumb) and 8(index finger).
 
 After executing the program a camera window will open up, you will be able to see your index fingertip adn thumb tip being tracked in this camera window. When the distance increases between those the fingertips the volume will increase and when the distance decreases the volume will decrease. This program also shows the frame rate in the top left corner of the camera window once the program is executed.
 
